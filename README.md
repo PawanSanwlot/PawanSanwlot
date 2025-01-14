@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **React.js, Data Science, Backend Technologies**
 
-- 👨‍💻 All of my projects are available at [(https://pavan-sanwlot.netlify.app/)]
+- 👨‍💻 Visit my portfoilio at (https://pavan-sanwlot.netlify.app/)
 
 - 💬 Ask me about **Laravel, Angular, React, JavaScript, JAVA, MySql, MongoDB**
 
