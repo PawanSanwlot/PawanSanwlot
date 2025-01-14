@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m recently worked on [People Counter](https://peoplesubwaycounterapp.netlify.app/)
+- 🔭 I’m recently worked on [Joke Engine]((https://joke-engine.netlify.app/))
 
 - ✨ I'm a committed programmer and web developer. I'm constantly eager to learn new things and generate effective ideas. Hardcore Programming Lover.
 
@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **React.js, Data Science, Backend Technologies**
 
-- 👨‍💻 All of my projects are available at [https://pavansdigitalportfolio.netlify.app/](https://pavansdigitalportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [(https://pavan-sanwlot.netlify.app/)]
 
 - 💬 Ask me about **Laravel, Angular, React, JavaScript, JAVA, MySql, MongoDB**
 
