@@ -1,23 +1,25 @@
 [![MasterHead](https://raw.githubusercontent.com/PawanSanwlot/PawanSanwlot/main/header.gif)](https://pavan-sanwlot.netlify.app/)
 <h1 align="center">Hi 👋, I'm Pavan Sanwlot</h1>
-<h3 align="center">I am enthusiastic in finding solutions along with Full-Stack Development, JAVA, JavaScript, React, Laravel Technologies</h3>
+<h3 align="center">I am enthusiastic in finding solutions along with Front End Development and Design,Canva, Figma, JavaScript, React, Laravel Technologies</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavansanwlot&label=Profile%20views&color=0e75b6&style=flat" alt="pavansanwlot" /> </p>
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m recently worked on [Joke Engine]((https://joke-engine.netlify.app/))
+- Currently working on Social media Creatives post and design for health and wellness brand 
 
-- ✨ I'm a committed programmer and web developer. I'm constantly eager to learn new things and generate effective ideas. Hardcore Programming Lover.
+- 🔭 I worked on [Joke Engine]((https://joke-engine.netlify.app/))
+
+- ✨ I'm a committed Designer and web developer. I'm constantly eager to learn new things and generate effective ideas. Hardcore Programming Lover.
 
 - 👨‍💻 Enjoy discovering new things and learning about new technology.
 
-- 🌱 I’m currently learning **React.js, Data Science, Backend Technologies**
+- 🌱 I’m currently learning **Adobe illustrator, React.js, Data Science, Backend Technologies**
 
 - 👨‍💻 Visit my portfoilio at (https://pavan-sanwlot.netlify.app/)
 
-- 💬 Ask me about **Laravel, Angular, React, JavaScript, JAVA, MySql, MongoDB**
+- 💬 Ask me about **Canva, Figma, Laravel, Angular, React, JavaScript, JAVA, MySql, MongoDB**
 
 - 📫 How to reach me **Pawansanwlott@gmail.com**
 
